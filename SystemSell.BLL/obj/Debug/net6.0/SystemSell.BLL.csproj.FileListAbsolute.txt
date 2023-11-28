@@ -1,0 +1,17 @@
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.BLL.deps.json
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.BLL.dll
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.BLL.pdb
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.AssemblyInfoInputs.cache
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.AssemblyInfo.cs
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.csproj.CoreCompileInputs.cache
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.dll
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\refint\SystemSell.BLL.dll
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.pdb
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\ref\SystemSell.BLL.dll
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.DAL.dll
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.Entity.dll
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.DAL.pdb
+H:\C#\Solution_1\SystemSell.BLL\bin\Debug\net6.0\SystemSell.Entity.pdb
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.csproj.AssemblyReference.cache
+H:\C#\Solution_1\SystemSell.BLL\obj\Debug\net6.0\SystemSell.BLL.csproj.CopyComplete

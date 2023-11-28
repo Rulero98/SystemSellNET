@@ -1,0 +1,14 @@
+H:\C#\Solution_1\SystemSell.Entity\bin\Debug\net6.0\SystemSell.Entity.deps.json
+H:\C#\Solution_1\SystemSell.Entity\bin\Debug\net6.0\SystemSell.Entity.runtimeconfig.json
+H:\C#\Solution_1\SystemSell.Entity\bin\Debug\net6.0\SystemSell.Entity.dll
+H:\C#\Solution_1\SystemSell.Entity\bin\Debug\net6.0\SystemSell.Entity.pdb
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.csproj.AssemblyReference.cache
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.AssemblyInfoInputs.cache
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.AssemblyInfo.cs
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.csproj.CoreCompileInputs.cache
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.dll
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\refint\SystemSell.Entity.dll
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.pdb
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\SystemSell.Entity.genruntimeconfig.cache
+H:\C#\Solution_1\SystemSell.Entity\obj\Debug\net6.0\ref\SystemSell.Entity.dll

@@ -18,7 +18,10 @@ namespace SystemSell.AplicationWeb.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Perfil()
+        {
+            return View();
+        }       public IActionResult Privacy()
         {
             return View();
         }
